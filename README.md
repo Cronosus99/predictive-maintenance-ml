@@ -18,7 +18,7 @@ Machine failures are rare but costly. Traditional maintenance strategies are ine
   - Timestamp (date)
   - Device ID  
 
-- Key challenge: **extreme class imbalance**
+⚠️ Key challenge: **extreme class imbalance**
 
 ---
 
@@ -58,8 +58,8 @@ Machine failures are rare but costly. Traditional maintenance strategies are ine
 - Recall: ~24%
 - Precision: ~3%
 
-- The model detects some failures but produces false positives  
-- Tradeoff is acceptable because missing failures is more costly
+👉 The model detects some failures but produces false positives  
+👉 Tradeoff is acceptable because missing failures is more costly
 
 ---
 
