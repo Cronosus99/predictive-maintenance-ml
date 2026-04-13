@@ -79,16 +79,17 @@ Machine failures are rare but costly. Traditional maintenance strategies are ine
 ---
 
 ## Project Structure
+
 predictive-maintenance/
 
 data/
-	predictive-maintenance-dataset.csv
+    predictive-maintenance-dataset.csv
 	
 notebook/
-	predictive_maintenance_ml.ipynb
+    predictive_maintenance_ml.ipynb
 	
 report/
-	predictive_maintenance_report.pdf
+    predictive_maintenance_report.pdf
 	
 README.md
 
