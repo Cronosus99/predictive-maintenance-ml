@@ -80,11 +80,13 @@ Machine failures are rare but costly. Traditional maintenance strategies are ine
 
 ## Project Structure
 predictive-maintenance/
-│
-├── notebook/
-├── report/
-├── data/
-└── README.md
+data/
+	predictive-maintenance-dataset.csv
+notebook/
+	predictive_maintenance_ml.ipynb
+report/
+	predictive_maintenance_report.pdf
+README.md
 
 ---
 
